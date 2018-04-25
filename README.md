@@ -1,5 +1,8 @@
 # So you forgot your supercomputer
-* http://rse.shef.ac.uk/ (RSE Sheffield)
+
+Rather than use a slide deck for my lightning talk in Archer Champions in April 2018, I just used a bunch of links.  Here are the links that made up my 'slides'
+
+* http://rse.shef.ac.uk/ (RSE Sheffield - Where I was when all this happened)
 * https://www.nag.co.uk/ (NAG came to teach us MPI)
 * http://mikecroucher.github.io/MLPM_talk/ (But croucher's law meant that I forgot my supercomputer)
 * https://alces-flight.com/ (Alces Flight + Amazon EC2)
